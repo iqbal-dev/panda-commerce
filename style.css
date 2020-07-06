@@ -37,3 +37,36 @@
 .catagories img{
     width: 100px;
 }
+.card h5{
+    text-align: center;
+}
+.card-body .buy-now{
+    min-width: 125px;
+    margin-left: 50%;
+    transform: translate(-50%, 0px);
+    background-image: linear-gradient(black,black);
+    border: none;
+}
+.shoes a,.backpack a{
+    color: #FFD019;
+    font-weight: bold;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.all-catagoris{
+    background-color:#E4E4E4;
+    padding: 50px 0;
+}
+.subscribe{
+    background-color: #FEEAE9;
+    margin-top: 100px;
+    height: 300px;
+    border-radius: 10px;
+}
+footer .container{;
+}
+#Shoes{
+ transition: all ease-in-out .4s;
+}
